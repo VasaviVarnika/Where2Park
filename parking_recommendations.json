@@ -1,0 +1,52 @@
+[
+  {
+    "name":"Corporation Circle Parking",
+    "lat":12.9752226,
+    "lng":77.5955056,
+    "type":"surface",
+    "fee":"no",
+    "access":"permissive",
+    "status":"available",
+    "distance_km":0.4145947048
+  },
+  {
+    "name":"Garuda Mall Parking",
+    "lat":12.9703806,
+    "lng":77.6094191,
+    "type":"underground",
+    "fee":"no",
+    "access":"permissive",
+    "status":"available",
+    "distance_km":1.6114774865
+  },
+  {
+    "name":"Nexus Mall Parking",
+    "lat":12.9348541,
+    "lng":77.6110076,
+    "type":"multi-storey",
+    "fee":"no",
+    "access":"permissive",
+    "status":"available",
+    "distance_km":4.4560510215
+  },
+  {
+    "name":"Street Parking Near Metro",
+    "lat":12.9600641,
+    "lng":77.6454368,
+    "type":"street_side",
+    "fee":"no",
+    "access":"permissive",
+    "status":"available",
+    "distance_km":5.6560462734
+  },
+  {
+    "name":"ISKCON Temple Parking",
+    "lat":13.0092724,
+    "lng":77.5516244,
+    "type":"surface",
+    "fee":"no",
+    "access":"permissive",
+    "status":"available",
+    "distance_km":6.2633331497
+  }
+]
